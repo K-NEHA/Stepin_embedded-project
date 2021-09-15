@@ -30,5 +30,5 @@
 
 ### CI and Code Quality
 
-|Build|Cppcheck|Codacy|
-|:--:|:--:|:--:|
+
+[![Compile-Linux](https://github.com/K-NEHA/Stepin_embedded-project/actions/workflows/compile.yml/badge.svg)](https://github.com/K-NEHA/Stepin_embedded-project/actions/workflows/compile.yml)
