@@ -32,3 +32,8 @@
 
 
 [![Compile-Linux](https://github.com/K-NEHA/Stepin_embedded-project/actions/workflows/compile.yml/badge.svg)](https://github.com/K-NEHA/Stepin_embedded-project/actions/workflows/compile.yml)
+
+[![Cppcheck](https://github.com/K-NEHA/Stepin_embedded-project/actions/workflows/codequality.yml/badge.svg)](https://github.com/K-NEHA/Stepin_embedded-project/actions/workflows/codequality.yml)
+[![code score](https://www.code-inspector.com/project/28678/score/svg)
+[![code grade](https://www.code-inspector.com/project/28678/status/svg)]
+
