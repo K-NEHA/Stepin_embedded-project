@@ -21,18 +21,18 @@ Seat Heating App:-
 ACTIVITY-2:-
 ============
 
-|> In Activity-2, we got the detected temperature.|
-|> we can increase or decrease the temperature by using switch or a button.|
-|> we can set it to either minimum values or maximum values.|
-|> Example: In the range of (20%-33%)|
+> In Activity-2, we got the detected temperature.
+> we can increase or decrease the temperature by using switch or a button.
+> we can set it to either minimum values or maximum values.
+> Example: In the range of (20%-33%)
      ========
----> we need to get ADC.
+> we need to get ADC.
 
 ACTIVITY-3:
 =========
----> In Activity-3, it displays the value of temperature as output.
----> Display CDD-CRO will give the temperature value by showing PWM.
+> In Activity-3, it displays the value of temperature as output.
+> Display CDD-CRO will give the temperature value by showing PWM.
 
 ACTIVITY-4:
 ==========
----> In Activity-4, It is displaying the temperature(USART).
+> In Activity-4, It is displaying the temperature(USART).
