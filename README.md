@@ -33,4 +33,4 @@
 
 |Build|Cppcheck|Codacy|Status|
 |:--:|:--:|:--:|:--:|
-
+|build||check||[![code quality](https://www.code-inspector.com/project/28678/score/svg)||[![code grade](https://www.code-inspector.com/project/28678/status/svg)\
