@@ -1,5 +1,5 @@
-                                                     SEAT HEATING APPLICATION
-                                                     ========================
+  SEAT HEATING APPLICATION
+  ======================
 
 Seat Heating App:-
 ==================
