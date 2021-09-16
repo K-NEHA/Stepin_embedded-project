@@ -30,4 +30,4 @@ ACTIVITY-3:
 
 ACTIVITY-4:
 ==========
----> In Activity-4 in other cases LED light turn off.
+---> In Activity-4 To display the temperature
