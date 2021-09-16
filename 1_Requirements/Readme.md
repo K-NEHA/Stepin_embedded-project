@@ -25,7 +25,6 @@ ACTIVITY-2:-
 > we can increase or decrease the temperature by using switch or a button.
 > we can set it to either minimum values or maximum values.
 > Example: In the range of (20%-33%)
-     ========
 > we need to get ADC.
 
 ACTIVITY-3:
