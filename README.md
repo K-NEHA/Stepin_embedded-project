@@ -1,5 +1,6 @@
 # Stepin_embedded-project
-# Embedded C Programming - Seat Heating Application
+# Embedded C Programming 
+# Seat Heating Application
 ## Activity-1 In Action
 
 |OFF|OFF|OFF|ON|
