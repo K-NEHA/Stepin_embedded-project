@@ -33,6 +33,5 @@
 
 |BUILD||Cppcheck|Codacy|Status|
 |:--:|:--:|:--:|:--:|
-
-|[![Compile-Linux](https://github.com/K-NEHA/Stepin_embedded-project/actions/workflows/Compile.yml/badge.svg)](https://github.com/K-NEHA/Stepin_embedded-project/actions/workflows/Compile.yml)|[![Cppcheck](https://github.com/K-NEHA/Stepin_embedded-project/actions/workflows/CodeQualiy.yml/badge.svg)](https://github.com/K-NEHA/Stepin_embedded-project/actions/workflows/CodeQualiy.yml)|[![CODE-QUALITY](https://www.code-inspector.com/project/28678/score/svg)|[![CODE-STATUS](https://www.code-inspector.com/project/28678/status/svg)|
+|![Compile-Linux](https://github.com/K-NEHA/Stepin_embedded-project/actions/workflows/Compile.yml/badge.svg)(https://github.com/K-NEHA/Stepin_embedded-project/actions/workflows/Compile.yml)|![Cppcheck](https://github.com/K-NEHA/Stepin_embedded-project/actions/workflows/CodeQualiy.yml/badge.svg)(https://github.com/K-NEHA/Stepin_embedded-project/actions/workflows/CodeQualiy.yml)|![CODE-QUALITY](https://www.code-inspector.com/project/28678/score/svg)|![CODE-STATUS](https://www.code-inspector.com/project/28678/status/svg)|
 
