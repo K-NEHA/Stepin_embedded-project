@@ -1,0 +1,1 @@
+@mainpage Seat Heating Application @subpage SeatHeatingApp.c
